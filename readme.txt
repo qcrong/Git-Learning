@@ -8,4 +8,4 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick and simple.
 Try merge master to dev.
 try --no-ff mode.
-
+Fix bug.merge issue-101 to master.
