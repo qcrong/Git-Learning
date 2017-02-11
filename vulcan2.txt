@@ -1,2 +1,2 @@
 vulcan
-vulCan2
+VulCan2
